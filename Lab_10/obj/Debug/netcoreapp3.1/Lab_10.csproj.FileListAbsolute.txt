@@ -1,0 +1,13 @@
+C:\Users\bzztt\source\repos\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.exe
+C:\Users\bzztt\source\repos\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.deps.json
+C:\Users\bzztt\source\repos\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.runtimeconfig.json
+C:\Users\bzztt\source\repos\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.runtimeconfig.dev.json
+C:\Users\bzztt\source\repos\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.dll
+C:\Users\bzztt\source\repos\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.pdb
+C:\Users\bzztt\source\repos\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.csprojAssemblyReference.cache
+C:\Users\bzztt\source\repos\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.AssemblyInfoInputs.cache
+C:\Users\bzztt\source\repos\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.AssemblyInfo.cs
+C:\Users\bzztt\source\repos\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.csproj.CoreCompileInputs.cache
+C:\Users\bzztt\source\repos\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.dll
+C:\Users\bzztt\source\repos\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.pdb
+C:\Users\bzztt\source\repos\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.genruntimeconfig.cache
